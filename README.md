@@ -8,7 +8,7 @@ Leave the code better than when it was recieved (ie: the Scout rule)
 
 https://abbydabbydoodoesgithub.github.io/UW_ChWk01_WebAccessibilityFeatures/
 
-![Image Depicts: My Horiseon App Screenshot](images\My_Horiseon_App_ScreenShot.PNG?raw=true "My Horiseon App Screenshot")
+![My Horiseon App Screenshot](./images/My_Horiseon_App_ScreenShot.PNG?raw=true "My Horiseon App Screenshot")
 
 
 <!-- ## Your Task
