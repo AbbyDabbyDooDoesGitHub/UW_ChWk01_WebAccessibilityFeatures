@@ -1,5 +1,14 @@
 # UW_ChWk01_WebAccessibilityFeatures
-Add Web Accessibility Features to Existing Code / Bug Fixes where Needed
+
+## Overview
+Add Web Accessibility Features to Existing Code 
+Make sure webpage is functioning as intended (ie: all links work, etc)
+Create an end product that matches the formatting from the example given
+Leave the code better than when it was recieved (ie: the Scout rule)
+
+https://abbydabbydoodoesgithub.github.io/UW_ChWk01_WebAccessibilityFeatures/
+
+![Image Depicts: My Horiseon App Screenshot](images\My_Horiseon_App_ScreenShot.PNG?raw=true "My Horiseon App Screenshot")
 
 
 <!-- ## Your Task
@@ -14,7 +23,7 @@ An increasingly important consideration for businesses, web **accessibility** en
 
 Accessibility can include complex requirements, but your tech lead has given you a small list of specific criteria for this project. These criteria are documented in the Acceptance Criteria section.
 
-To impress clients, you should always exceed expectations and improve the codebase for long-term sustainability. For example, check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page. -->
+To impress clients, you should always exceed expectations and improve the codebase for long-term sustainability. For example, check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page. 
 
 Are you ready to begin? Here are this week's Challenge requirements.
 
@@ -54,13 +63,13 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
-<!-- > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size. -->
+<!-- > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size. 
 
 ## Getting Started
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
-<!-- 1. Create a new repository on your GitHub account and clone it to your computer. DONE -->
+<!-- 1. Create a new repository on your GitHub account and clone it to your computer. DONE 
 
 2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
 
@@ -86,7 +95,7 @@ Be sure to add, commit, and push your work to see the most up-to-date version of
 >
 > * A repository that includes only a README file but nothing else
 >
-> * A repository that only includes starter code -->
+> * A repository that only includes starter code 
 
 This Challenge is graded based on the following criteria: 
 
@@ -116,7 +125,7 @@ This Challenge is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-<!-- * Repository has a unique name. DONE -->
+<!-- * Repository has a unique name. DONE 
 
 * Repository follows best practices for file structure and naming conventions.
 
