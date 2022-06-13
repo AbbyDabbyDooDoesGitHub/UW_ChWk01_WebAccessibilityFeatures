@@ -12,6 +12,10 @@ Link to Web App: https://abbydabbydoodoesgithub.github.io/UW_ChWk01_WebAccessibi
 App Preview:
 ![My Horiseon App Screenshot](./images/My_Horiseon_App_ScreenShot.PNG?raw=true "My Horiseon App Screenshot")
 
+## Notes
+
+I consolidated a lot of repetative code by making similar classes instead of the classes acting as id's and needing to be repeated for each one. The CSS was reordered for clarity so long as nothing would change the override order. Alt text was added to images and I listened to the reader view to ensure it was executing as expected and proceeding through the page in a sensible order.
+
 
 <!-- ## Your Task
 
