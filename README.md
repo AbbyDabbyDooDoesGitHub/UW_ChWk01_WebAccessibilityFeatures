@@ -25,7 +25,7 @@ Accessibility can include complex requirements, but your tech lead has given you
 
 To impress clients, you should always exceed expectations and improve the codebase for long-term sustainability. For example, check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page. 
 
-Are you ready to begin? Here are this week's Challenge requirements.
+Are you ready to begin? Here are this week's Challenge requirements. -->
 
 ## User Story
 
@@ -33,7 +33,7 @@ Are you ready to begin? Here are this week's Challenge requirements.
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
+``` 
 
 ## Acceptance Criteria
 
@@ -56,7 +56,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ```
-
+<!--
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
