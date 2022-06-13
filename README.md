@@ -1,13 +1,15 @@
 # UW_ChWk01_WebAccessibilityFeatures
 
 ## Overview
+```
 Add Web Accessibility Features to Existing Code 
 Make sure webpage is functioning as intended (ie: all links work, etc)
 Create an end product that matches the formatting from the example given
 Leave the code better than when it was recieved (ie: the Scout rule)
+```
+Link to Web App: https://abbydabbydoodoesgithub.github.io/UW_ChWk01_WebAccessibilityFeatures/
 
-https://abbydabbydoodoesgithub.github.io/UW_ChWk01_WebAccessibilityFeatures/
-
+App Preview:
 ![My Horiseon App Screenshot](./images/My_Horiseon_App_ScreenShot.PNG?raw=true "My Horiseon App Screenshot")
 
 
